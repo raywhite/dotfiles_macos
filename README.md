@@ -40,6 +40,12 @@ Initialize chezmoi with dotfiles from this repository:
 chezmoi init https://github.com/raywhite/dotfiles_macos.git
 ```
 
+Sync dotfiles with chezmoi:
+
+```sh
+chezmoi apply -v
+```
+
 ## Install Apps with Homebrew
 
 Install all apps from the `Brewfile`, located in `private_dot_config/brewflie/Brewfile`.
