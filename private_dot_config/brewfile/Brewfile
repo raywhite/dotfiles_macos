@@ -14,7 +14,7 @@ brew "zoxide"
 brew "direnv"
 
 # IDE
-brewr"neovim"
+brew "neovim"
 
 # Git
 brew "git"
