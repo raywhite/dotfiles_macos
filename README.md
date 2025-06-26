@@ -37,7 +37,7 @@ brew install chezmoi
 Initialize chezmoi with dotfiles from this repository:
 
 ```sh
-chezmoi init https://github.com/wohckcin/dotfiles.git
+chezmoi init https://github.com/raywhite/dotfiles_macos.git
 ```
 
 ## Install Apps with Homebrew
