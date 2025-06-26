@@ -1,0 +1,27 @@
+# Font
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 14
+
+# Theme
+theme = catppuccin-mocha
+
+# Window
+window-padding-x = 5,5
+window-padding-y = 0
+window-padding-balance = true
+
+# featers
+shell-integration = fish
+shell-integration-features = no-cursor,sudo
+quit-after-last-window-closed = true
+window-inherit-working-directory = false
+working-directory = home
+
+# macos
+macos-option-as-alt = true
+macos-titlebar-style = tabs
+# macos-titlebar-proxy-icon = hidden
+
+# clipboard
+# copy-on-select = clipboard
+clipboard-trim-trailing-spaces = true

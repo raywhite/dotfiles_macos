@@ -1,0 +1,7 @@
+frame = "buttonless"
+title-hidden = true
+no-multigrid = false
+[font]
+normal = ["JetBrainsMono Nerd Font Mono"]
+size = 14
+edging = "subpixelantialias"

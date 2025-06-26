@@ -1,0 +1,128 @@
+# SHELL: fish and Utilities
+brew "chezmoi"
+brew "fish"
+brew "fisher"
+brew "starship"
+
+# Terminal Utilities
+brew "fzf"
+brew "tmux"
+brew "watch"
+brew "bottom"
+brew "jq"
+brew "zoxide"
+brew "direnv"
+
+# IDE
+brewr"neovim"
+
+# Git
+brew "git"
+brew "gh"
+brew "lazygit"
+
+# Rust cli tools
+brew "uutils-coreutils"
+brew "ripgrep"
+brew "bat"
+brew "fd"
+brew "eza"
+brew "yazi"
+brew "procs"
+brew "fastfetch"
+brew "duf"
+brew "dust"
+brew "gping"
+#brew "presenterm"
+#brew "hyperfine"
+#brew "tealdeer"
+
+# Programming languages
+brew "rustup"
+#brew "uv"
+#brew "go"
+
+# Infrastructure
+#brew "sops"
+#brew "helm"
+#brew "helmfile"
+#brew "kubernetes-cli"
+#brew "k9s"
+#brew "kustomize"
+#brew "stern"
+#brew "restic"
+#brew "trivy"
+#brew "mosh"
+
+# AWS
+#brew "awscli"
+#brew "aws-cdk"
+#brew "aws-iam-authenticator"
+#brew "eksctl"
+#brew "sceptre"
+#brew "skaffold"
+
+# Apps
+# password manager
+cask "1password"
+cask "1password-cli"
+# Terminal
+cask "ghostty"
+# Neovim GUI
+cask "neovide-app"
+# Programming
+cask "visual-studio-code"
+# Productivity
+cask "obsidian"
+# Messaging
+cask "slack"
+# Docker and VMs
+cask "orbstack"
+# Windows remote
+cask "windows-app"
+# Browsers
+cask "zen"
+cask "google-chrome"
+# Others
+#cask "tailscale-app"
+#cask "appcleaner"
+#cask "raycast"
+
+# Fonts
+cask "font-jetbrains-mono-nerd-font"
+# cask "font-cascadia-code"
+# cask "font-comfortaa"
+# cask "font-dm-mono"
+# cask "font-fantasque-sans-mono"
+# cask "font-fira-code-nerd-font"
+# cask "font-fira-sans"
+# cask "font-geist-mono-nerd-font"
+# cask "font-hack-nerd-font"
+# cask "font-hasklug-nerd-font"
+# cask "font-ibm-plex-mono"
+# cask "font-ibm-plex-sans"
+# cask "font-inconsolata"
+# cask "font-inconsolata-go-nerd-font"
+# cask "font-intel-one-mono"
+# cask "font-iosevka"
+# cask "font-iosevka-slab"
+# cask "font-jetbrains-mono"
+# cask "font-lato"
+# cask "font-lilex"
+# cask "font-manrope"
+# cask "font-maple-mono"
+# cask "font-meslo-lg-nerd-font"
+# cask "font-monoid"
+# cask "font-montserrat"
+# cask "font-noto-sans-cjk-jp"
+# cask "font-nunito"
+# cask "font-open-sans"
+# cask "font-orbitron"
+# cask "font-outfit"
+# cask "font-play"
+# cask "font-poiret-one"
+# cask "font-roboto"
+# cask "font-roboto-mono-nerd-font"
+# cask "font-source-sans-3"
+# cask "font-source-sans-pro"
+# cask "font-victor-mono"
