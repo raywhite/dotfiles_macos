@@ -4,12 +4,12 @@ This is a collection of dotfiles for bootstrapping a macos. I use a [chezmoi](ht
 
 ## Applications
 
-* SHELL: fish and starship, fisher plugin manager
-* IDE: Neovim and Neovide, Visual Studio Code
+* SHELL: fish with starship, and fisher plugin manager
+* IDE: Neovim with Neovide, and Visual Studio Code
 * Font: JetBrains Mono Nerd Font
 * Terminal: ghostty 
 * Password manager: 1password and 1password_cli
-* Browser: Zen, Google Chrome
+* Browser: Zen and Google Chrome
 
 ## Homebrew
 
